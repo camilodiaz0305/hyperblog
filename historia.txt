@@ -1,3 +1,2 @@
-Esta es la historia de camilo.
-
-Ahora estoy aprendiendo Git y voy a respasar un poco. Edicion 1.
+Esta es la historia de Camilo. Naci en Colombia.
+Ahora estoy aprendiendo Git y voy a respasar un poco.
