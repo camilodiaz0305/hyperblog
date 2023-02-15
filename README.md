@@ -1,2 +1,2 @@
 # hyperblog
-Un blog increible para el curso de Git y Github de platzi
+Este es un repositorio increible para Git y Github de platzi
